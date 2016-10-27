@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font: normal 100%/1.5 "Roboto", sans-serif;
+  font: normal 100%/1.5 Roboto, sans-serif;
 }
 
 *, *::before, *::after {
