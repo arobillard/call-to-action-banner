@@ -24,7 +24,7 @@ article {
 
 .banner {
   position: absolute;
-  width: 650px;
+  max-width: 785px;
   left: 50%;
   transform: translateX(-50%) translateY(-50%);
   top: 50%;
@@ -52,6 +52,7 @@ h2 {
 
 p {
   font-size: 1.5rem;
+  margin-top: 0;
 }
 
 .btn {
